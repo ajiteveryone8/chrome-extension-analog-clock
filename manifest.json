@@ -1,0 +1,13 @@
+{
+    "name" : "Analog CLock",
+    "version" : "1.0.0",
+    "description" : "Analog CLock",
+    "manifest_version" : 2,
+    "browser_action" : 
+    {
+        "default_popup" : "index.html",
+        "default_icon" : "icon.png"
+    },
+    "permissions" : ["activeTab"]
+}
+
